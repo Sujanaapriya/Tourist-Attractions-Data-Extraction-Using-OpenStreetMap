@@ -76,30 +76,21 @@ The project includes:
 - Summary metrics of the final dataset.
 
 
-## 9. How to Run the Project
-
-1. Clone or download this repository.
-2. Open the notebook in Google Colab or Jupyter Notebook.
-3. Install the required Python libraries, if they are not already available.
-4. Run the notebook cells sequentially.
-5. The notebook retrieves data from OpenStreetMap using the Overpass API.
-6. The cleaned dataset is exported as a CSV file.
-
-## 10. Limitations
+## 9. Limitations
 
 - The completeness of the dataset depends on the information available in OpenStreetMap.
 - Some tourist attractions may not have names or complete geographical details.
 - The results depend on the relevant OpenStreetMap tags and the geographical boundary used.
 - API availability and response times may affect data extraction.
 
-## 11. Future Enhancements
+## 10. Future Enhancements
 
 - Extend the analysis to other cities and districts.
 - Perform geographical visualisation of tourist attractions on an interactive map.
 - Analyse attraction density across different areas.
 - Integrate additional tourism-related datasets.
 
-## 12. Acknowledgement
+## 11. Acknowledgement
 
 This project uses geographical data from OpenStreetMap contributors.
 
